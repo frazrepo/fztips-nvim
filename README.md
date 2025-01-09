@@ -1,13 +1,12 @@
-# A Neovim Plugin
+#  A collection of tips and tricks for Neovim
 
+A  repository to host a collection of tips and tricks on using neovim/vim.
 
-A template repository for Neovim plugins.
+# Using it
+- Lazy
+```
+    {
+        "frazrepo/fztips-nvim",
+    },
 
-## Using it
-
-## Features and structure
-
-- 100% Lua
-- Github actions for:
-  - check for formatting errors (Stylua)
-  - vimdocs autogeneration from README.md file
+```
